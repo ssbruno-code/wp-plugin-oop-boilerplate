@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/variables.scss"],"names":[],"mappings":"AAGA,aACI,eAJC,CAKD,UAJE","file":"admin-styles.min.css","sourcesContent":["$bg: #ccc;\r\n$txt: #333;\r\n\r\n#color-title{\r\n    background: $bg;\r\n    color: $txt;\r\n}"]}

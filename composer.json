@@ -1,0 +1,20 @@
+{
+    "name": "ssbruno-code/ssbcode-boilerplate",
+    "description": "Boilerplate plugin for wordpress",
+    "type": "boilerplate",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "ssbruno-code",
+            "email": "ti.brunosantana@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",    
+    "require": {}
+
+}
